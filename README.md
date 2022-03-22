@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAngelGarciaPerez&show_icons=true&title_color=#FF9200&text_color=#FF9200&icon_color=#FFC100&bg_color=#1D1D1D)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAngelGarciaPerez&show_icons=true&title_color=FF9200&text_color=FF9200&icon_color=FFC100&bg_color=1D1D1D)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
