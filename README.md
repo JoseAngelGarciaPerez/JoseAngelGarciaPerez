@@ -21,6 +21,6 @@ I'm a **fullstack dev**, currently focused on **indie game development**👾
 - **⚙️Tech used**: Unreal Engine, Blueprints Visual Scripting
 
 ## **Current project**
-### ***Hard Boiled*** 
+### ***<a href=https://johnnybanana98.itch.io/hard-boiled>Hard Boiled***</a> 
 - **🔎About:** Hotline Miami-like videogame made with Godot
 - **⚙️Tech used**: Godot, GDScript, Aseprite
