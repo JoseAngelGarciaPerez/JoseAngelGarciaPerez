@@ -1,5 +1,5 @@
 # Hi there 👋 I'm José Ángel 🎮
-I'm a **fullstack dev**, currently focused on **indie game development**👾
+I'm a **fullstack dev**, currently focused on **Java programming** and **indie game development**👾
 
 ## **Github Stats**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAngelGarciaPerez&show_icons=true&title_color=FF9200&text_color=FF9200&icon_color=FFEF00&bg_color=1D1D1D)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,6 +20,7 @@ I'm a **fullstack dev**, currently focused on **indie game development**👾
 - **🔎About:** Wave videogame made with Unreal Engine
 - **⚙️Tech used**: Unreal Engine, Blueprints Visual Scripting
 
-### ***<a href=https://johnnybanana98.itch.io/hard-boiled>Hard Boiled***</a> 
+### ***<a href=https://github.com/JoseAngelGarciaPerez/Hard_Boiled_demo>Hard Boiled***</a> 
 - **🔎About:** Hotline Miami-like videogame made with Godot
 - **⚙️Tech used**: Godot, GDScript, Aseprite
+- **Donwload it**: <a href=https://johnnybanana98.itch.io/hard-boiled>Click here!</a>
