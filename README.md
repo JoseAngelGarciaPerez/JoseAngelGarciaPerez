@@ -19,6 +19,7 @@ I'm a **fullstack dev**, currently focused on **Java programming** and **indie g
 ### ***<a href=https://johnnybanana98.itch.io/thurisaz>Thurisaz</a>***
 - **🔎About:** Wave videogame made with Unreal Engine
 - **⚙️Tech used**: Unreal Engine, Blueprints Visual Scripting
+- **Donwload it**: <a href=https://johnnybanana98.itch.io/thurisaz>Click here!</a>
 
 ### ***<a href=https://github.com/JoseAngelGarciaPerez/Hard_Boiled_demo>Hard Boiled***</a> 
 - **🔎About:** Hotline Miami-like videogame made with Godot
